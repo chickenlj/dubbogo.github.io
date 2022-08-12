@@ -120,7 +120,7 @@ export default {
       {
         key: 'docs',
         text: '文档',
-        link: 'https://dubbo.apache.org/zh/docs3-building/golang-sdk/',
+        link: 'https://dubbo.apache.org/zh/docs3-v2/golang-sdk/',
       },
       {
         key: 'blog',
